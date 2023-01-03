@@ -1,0 +1,26 @@
+.div-main{
+    display:flex;
+    height: 550px;
+    /* margin: auto; */
+    
+}
+.left{
+    padding-left: 150px;
+    padding-top: 50px;
+    padding-right: 50px;
+    align-content: center;
+    justify-content: center;
+    width: 50%;
+}
+.right{
+   /* margin: auto; */
+   margin-top: 50px;
+   align-content: center;
+   margin-left: 50px;
+   /* width: 50%; */
+   margin-right: 50px;
+}
+picture{
+    height: 500px;
+    width:10px;
+}

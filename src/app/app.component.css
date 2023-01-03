@@ -1,0 +1,31 @@
+.menu{
+    padding-left: 1000px;
+}
+footer{
+    /* height: 150px; */
+    background-color: rgb(250, 213, 219);
+    
+}
+.top-nav{
+    background-color: lightpink;
+    height: 80px;
+}
+body {
+    background-color: beige;
+    
+  }
+.app-body{
+    min-height: 100%;
+  height: auto;
+  margin: 0;
+   
+}
+font{
+    color: black;
+}
+.footer-div{
+    height: 250px;
+}
+.search-a{
+    text-decoration:none;
+}

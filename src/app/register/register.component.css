@@ -1,0 +1,38 @@
+.card{
+    /* margin-top: 50px;
+    margin-left: 450px;
+    margin-right: 450px; */
+    margin-bottom: 0px;
+    /* margin-left: 450px;
+    height: 760px;
+    margin-right: 450px;
+    padding-bottom: 30px;
+    background-color: floralwhite;
+    padding-bottom: 15px; */
+    /* margin-top: 25px; */
+
+
+    /* padding-top: 66px;
+    margin-top: 43px;
+    margin-bottom: 26px; */
+    /* border-bottom-width: 0px; */
+}
+ .register-body{
+    padding-left: 30px;
+    padding-right: 30px;
+    
+    
+}
+/* .reg-div{
+   height: 450px;
+} */
+
+button{
+    align-items: center;
+    margin-left: 230px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+} 
+.labels{
+    height: 55px;
+}
